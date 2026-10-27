@@ -15,8 +15,7 @@ Start by querying Bastion to understand what data it serves and whether it enfor
 
 <img width="725" height="701" alt="image" src="https://github.com/user-attachments/assets/3c7da1ec-5ea1-4a3d-a461-6c6e6811c42c" />
 
-
-
+<img width="707" height="737" alt="image 1" src="https://github.com/user-attachments/assets/27aab124-7cd8-4e35-b835-ad6aea85fa01" />
 
 
 **Answer the questions below**
@@ -26,9 +25,8 @@ Start by querying Bastion to understand what data it serves and whether it enfor
 
 THM{l0ck_
 
-![image.png](AI%20Security%205%205%20Lockdown/image%202.png)
 
-
+<img width="702" height="427" alt="image 2" src="https://github.com/user-attachments/assets/90894239-c28c-489c-9c44-f8a257adc7f2" />
 
 
 > What is the second flag fragment after fixing the logging vulnerability?
@@ -36,11 +34,9 @@ THM{l0ck_
 
 d0wn_
 
-![image.png](AI%20Security%205%205%20Lockdown/image%203.png)
+<img width="717" height="522" alt="image 3" src="https://github.com/user-attachments/assets/2d6ac795-87cf-4073-894e-ad69159aab2d" />
 
-![image.png](AI%20Security%205%205%20Lockdown/image%204.png)
-
-
+<img width="702" height="276" alt="image 4" src="https://github.com/user-attachments/assets/869c23dd-35cd-494e-8f7a-da4188265268" />
 
 
 > What is the third flag fragment after securing user-level access?
@@ -48,6 +44,6 @@ d0wn_
 
 s3cur3d}
 
-![image.png](AI%20Security%205%205%20Lockdown/image%205.png)
+<img width="713" height="722" alt="image 5" src="https://github.com/user-attachments/assets/b4cebb8b-3d89-4057-8d57-7cb68225a85d" />
 
-![image.png](AI%20Security%205%205%20Lockdown/image%206.png)
+<img width="687" height="615" alt="image 6" src="https://github.com/user-attachments/assets/586d27c5-aee4-4e66-bdf7-ba3b1a70b0fd" />

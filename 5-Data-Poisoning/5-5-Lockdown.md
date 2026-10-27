@@ -18,6 +18,7 @@ Start by querying Bastion to understand what data it serves and whether it enfor
 
 
 
+
 **Answer the questions below**
 
 > What is the first flag fragment after fixing the data retrieval vulnerability?
@@ -38,6 +39,9 @@ d0wn_
 ![image.png](AI%20Security%205%205%20Lockdown/image%203.png)
 
 ![image.png](AI%20Security%205%205%20Lockdown/image%204.png)
+
+
+
 
 > What is the third flag fragment after securing user-level access?
 > 

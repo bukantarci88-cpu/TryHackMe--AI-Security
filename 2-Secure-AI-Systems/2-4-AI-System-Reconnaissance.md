@@ -821,5 +821,3 @@ You made it through the Cyphira AI Audit. Let's recap what we covered, map it 
 **NIST Cybersecurity Framework (CSF 2.0):** The room's content aligns with CSF 2.0's Identify function:
 
 - **ID.AM (Asset Management):** Discovering and inventorying AI infrastructure components across the network. This is the core purpose of the entire room.
-
-![User profile photo.](https://tryhackme.com/_next/static/media/avatar.ebbf6d3be11b4b7c.svg)

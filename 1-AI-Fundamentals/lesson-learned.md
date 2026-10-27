@@ -1,0 +1,1 @@
+Understanding AI and machine learning fundamentals provides the foundation for identifying AI-specific attack surfaces, security risks, and defensive requirements within modern cybersecurity environments.

@@ -1,4 +1,4 @@
-<img width="794" height="447" alt="image 13" src="https://github.com/user-attachments/assets/66f4f25d-6e71-4b79-9f6e-6e427b8d0157" /># Al Security 2.3. AI Threat Modelling
+# Al Security 2.3. AI Threat Modelling
 
 ### **Task 1: Introduction**
 
@@ -21,6 +21,7 @@ If you have threat modelled traditional applications before, you are used to thi
 
 <img width="572" height="345" alt="image" src="https://github.com/user-attachments/assets/09b2d40e-2ef2-4020-bfb6-fce603943264" />
 
+<img width="794" height="447" alt="image 13" src="https://github.com/user-attachments/assets/66f4f25d-6e71-4b79-9f6e-6e427b8d0157" />
 
 **AI Assets You Need to Know**
 
